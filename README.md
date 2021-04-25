@@ -1,3 +1,2 @@
 # Ohjelmointi1HT
-Ensikosketukseni koodauksen maailmaan :^)
-Tehty syksyllä 2018
+Ensikosketukseni koodauksen maailmaan :^) <br /> Tehty syksyllä 2018
